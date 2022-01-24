@@ -25,6 +25,7 @@ public class RecycleAdaptor extends RecyclerView.Adapter<RecycleAdaptor.ViewHold
         //storing view in viewHolder
         ViewHolder viewHolder =  new ViewHolder(view);
         return viewHolder;
+        //hello new update........................
     }
 
     @Override
